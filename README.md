@@ -8,7 +8,7 @@ Horiseon is a company that offers solutions for a company's online presence. The
 * CSS
 
 ## Screenshot
-![Horiseon Webpage Screenshot] (assets/images/horiseon-screenshot)
+![Horiseon Webpage Screenshot] (assets/images/horiseon-screenshot.png)
 
 ## Website
 https://warrenp11.github.io/horiseon/
