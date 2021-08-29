@@ -1,7 +1,7 @@
 # Horiseon
 
 ## Purpose
-Horiseon is a company that offers solutions for a company's online presence. The purpose of this website is to showcase what Horiseon can do for their clients, from the services they can provide, to the benefits their clients will have from working with Horiseon. 
+Horiseon is a company that offers solutions for a company's online presence. The purpose of this website is to showcase what Horiseon can do for their clients -- from the services they can provide, to the benefits their clients will have from working with Horiseon. 
 
 ## Built With
 * HTML
